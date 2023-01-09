@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.94bf75ec.css",
-    "main.js": "/static/js/main.847229a6.js",
+    "main.css": "/static/css/main.6dc081d4.css",
+    "main.js": "/static/js/main.896ad4b9.js",
     "static/media/ProfilePic.jpg": "/static/media/ProfilePic.64bf177e197d9371045a.jpg",
     "static/media/Image2.jpg": "/static/media/Image2.7185d1bb27e67141aecd.jpg",
+    "static/media/GymBro.PNG": "/static/media/GymBro.3a1c3023ee1c5593e051.PNG",
     "static/media/Resume_3A.pdf": "/static/media/Resume_3A.5f5ce26ccfc91cdd0d89.pdf",
+    "static/media/SudokuSolver.png": "/static/media/SudokuSolver.b68f673fcf9c62984885.png",
+    "static/media/WeatherApp.png": "/static/media/WeatherApp.50a7a2c5c3cc62954c18.png",
+    "static/media/LiveChatroom.png": "/static/media/LiveChatroom.e3f6bafbd1801da624ee.png",
+    "static/media/TicTacToeBot.png": "/static/media/TicTacToeBot.19419f0350f38591d1f7.png",
+    "static/media/Snake.png": "/static/media/Snake.dd53513bc10d295c263b.png",
     "index.html": "/index.html",
-    "main.94bf75ec.css.map": "/static/css/main.94bf75ec.css.map",
-    "main.847229a6.js.map": "/static/js/main.847229a6.js.map"
+    "main.6dc081d4.css.map": "/static/css/main.6dc081d4.css.map",
+    "main.896ad4b9.js.map": "/static/js/main.896ad4b9.js.map"
   },
   "entrypoints": [
-    "static/css/main.94bf75ec.css",
-    "static/js/main.847229a6.js"
+    "static/css/main.6dc081d4.css",
+    "static/js/main.896ad4b9.js"
   ]
 }
