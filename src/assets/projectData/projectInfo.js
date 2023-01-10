@@ -4,6 +4,7 @@ import Snake from './Snake.png'
 import SudokuSolver from './SudokuSolver.png'
 import TicTacToeBot from './TicTacToeBot.png'
 import WeatherApp from './WeatherApp.png'
+import EatSmart from './EatSmart.png'
 
 const data = [
     {
@@ -47,6 +48,13 @@ const data = [
         name: 'Weather App',
         description: 'A web application to see daily weather for user-inputted cities worldwide, using the AccuWeather API.',
         url: 'https://github.com/MN-Coding/Weather-App'
+    },
+    {
+        id: 7,
+        image: EatSmart,
+        name: 'Eat Smart',
+        description: 'A web application built using React.js and edamam API which offers recipes and respective caloric information based on provided user queries.',
+        url: 'https://github.com/MN-Coding/eat-smart'
     }
 ]
 
