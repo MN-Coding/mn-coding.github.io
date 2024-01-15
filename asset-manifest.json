@@ -1,23 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.9bbef5b2.css",
-    "main.js": "/static/js/main.a2f38765.js",
+    "main.css": "/static/css/main.fec18f77.css",
+    "main.js": "/static/js/main.046c2fb2.js",
     "static/media/ProfilePic.jpg": "/static/media/ProfilePic.5760477f1608f60116ca.jpg",
-    "static/media/Image2.jpg": "/static/media/Image2.b82258ee974b6b7c79b6.jpg",
     "static/media/EatSmart.png": "/static/media/EatSmart.d5a45d493d28d60f0540.png",
     "static/media/GymBro.PNG": "/static/media/GymBro.3a1c3023ee1c5593e051.PNG",
-    "static/media/Resume_3B.pdf": "/static/media/Resume_3B.316d41aae0ffa7f99920.pdf",
-    "static/media/SudokuSolver.png": "/static/media/SudokuSolver.b68f673fcf9c62984885.png",
-    "static/media/WeatherApp.png": "/static/media/WeatherApp.50a7a2c5c3cc62954c18.png",
+    "static/media/GymBro1.png": "/static/media/GymBro1.d46d374eeb870f2587a9.png",
+    "static/media/Resume_4A.pdf": "/static/media/Resume_4A.0a6e296fdaa9622c4648.pdf",
+    "static/media/ProfilePic.png": "/static/media/ProfilePic.776d5498e2bc205dd9f3.png",
     "static/media/LiveChatroom.png": "/static/media/LiveChatroom.e3f6bafbd1801da624ee.png",
-    "static/media/TicTacToeBot.png": "/static/media/TicTacToeBot.19419f0350f38591d1f7.png",
-    "static/media/Snake.png": "/static/media/Snake.dd53513bc10d295c263b.png",
     "index.html": "/index.html",
-    "main.9bbef5b2.css.map": "/static/css/main.9bbef5b2.css.map",
-    "main.a2f38765.js.map": "/static/js/main.a2f38765.js.map"
+    "main.fec18f77.css.map": "/static/css/main.fec18f77.css.map",
+    "main.046c2fb2.js.map": "/static/js/main.046c2fb2.js.map"
   },
   "entrypoints": [
-    "static/css/main.9bbef5b2.css",
-    "static/js/main.a2f38765.js"
+    "static/css/main.fec18f77.css",
+    "static/js/main.046c2fb2.js"
   ]
 }
